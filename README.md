@@ -1,7 +1,4 @@
-# This is a SpaceX clone.
-This project was bootstrapped with Create React App and completely responsive. Changes may required.
-
-All rights are reserved. Made by myself.
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

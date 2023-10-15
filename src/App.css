@@ -44,7 +44,7 @@
 }
 
 #anchor {
-  font-size: 0.8em;
+  font-size: 14px;
   font-family: Din;
   text-decoration: none;
   margin-left: 0.8em;
@@ -58,7 +58,7 @@
 
 .text1 {
   color: white;
-  font-size: 1.1em;
+  font-size: 20px;
 }
 
 .texts {
@@ -284,7 +284,7 @@
 }
 
 #lastFooter {
-  font-size: 0.65em;
+  font-size: 10px;
   margin-left: 1em;
   margin-right: 1em;
   margin-top: 0.9em;
