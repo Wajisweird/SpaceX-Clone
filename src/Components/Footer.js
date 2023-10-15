@@ -8,7 +8,7 @@ export default function Footer() {
           SPACEX &copy; 2023
         </p>
         <p className="he text-white" id="lastFooter">
-          PRIVACUY POLICY
+          PRIVACY POLICY
         </p>
         <p className=" hh text-white" id="lastFooter">
           SUPPLIERS
