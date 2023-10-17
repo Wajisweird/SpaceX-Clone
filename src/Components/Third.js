@@ -9,7 +9,7 @@ export default function Third() {
           <h1 className="head1">
             DRAGON AND CREW-6 <br /> RETURN TO EARTH
           </h1>
-          <a href="/" className="btn41-43 btn-43 mt-3">
+          <a href="#backLaunch" className="btn41-43 btn-43 mt-3">
             LEARN MORE
           </a>
         </div>

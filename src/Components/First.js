@@ -38,8 +38,8 @@ export default function First() {
           </span>
         </div>
         <div className="texts" data-aos="fade-up">
-          <p className="text1">RECENT LAUNCH</p>
-          <h1 className="head1">PSYCHE MISSION</h1>
+          <p className="text1">UPCOMING LAUNCH</p>
+          <h1 className="head1">STARLINK MISSION</h1>
           <a href="/" className="btn41-43 btn-43 mt-3">
             LEARN MORE
           </a>
