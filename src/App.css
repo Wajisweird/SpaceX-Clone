@@ -157,7 +157,7 @@
   color: white;
   display: flex;
   justify-content: center;
-  margin-top: 23em;
+  margin-top: 27em;
 }
 
 @media screen and (min-width: 1px) and (max-width: 500px) {
@@ -208,7 +208,7 @@
 #arrow2 {
   width: 100%;
   color: white;
-  margin-top: 28em;
+  margin-top: 30.5em;
 }
 
 @media screen and (min-width: 1px) and (max-width: 500px) {
@@ -402,4 +402,35 @@
     flex-direction: column;
     margin-right: 10em;
   }
+}
+
+/* ---------------------------------------------------------------------------- */
+
+#firstLinkback {
+  background-color: black;
+}
+
+#firstLink {
+  margin-top: 4em;
+  object-fit: contain;
+  width: 100%;
+}
+
+#rowData2 {
+  font-family: din1;
+  font-size: 16px;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+#lastLink {
+  height: 100vh;
+  width: 90%;
+}
+
+#backBtn {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  font-family: din2;
 }
