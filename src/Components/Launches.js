@@ -11,7 +11,7 @@ export default function Launches() {
     <div>
       <div className="container-fluid" id="backLaunch">
         <div className="logo">
-          <img src={Logo} alt="/" className="mt-4 ms-4" />
+          <img src={Logo} alt="/" className="mt-4 ms-4" href="./First.js" />
           <span className="anchorTags ms-5">
             <a href="/" id="anchor">
               FALCON 9
@@ -76,26 +76,26 @@ export default function Launches() {
               </div>
             </div>
             <br />
-            <div className="row d-flex justify-content-evenly" id="reverse">
-              <div className="col-3" data-aos="fade-up">
+            <div className="row" id="reverse">
+              <div className="col-3" id="colss" data-aos="fade-up">
                 <img src={First} alt="/" id="sizingImg" />
                 <p className="text-center text-white mt-2" id="nn">
                   Stephen Bowen
                 </p>
               </div>
-              <div className="col-3" data-aos="fade-up">
+              <div className="col-3" id="colss" data-aos="fade-up">
                 <img src={Second} alt="/" id="sizingImg" />
                 <p className="text-center text-white mt-2" id="nn">
                   Warren "Woody" Hoburg
                 </p>
               </div>
-              <div className="col-3" data-aos="fade-up">
+              <div className="col-3" id="colss" data-aos="fade-up">
                 <img src={Third} alt="/" id="sizingImg" />
                 <p className="text-center text-white mt-2" id="nn">
                   Andrey Fedyaev
                 </p>
               </div>
-              <div className="col-3" data-aos="fade-up">
+              <div className="col-3" id="colss" data-aos="fade-up">
                 <img src={Fourth} alt="/" id="sizingImg" />
                 <p className="text-center text-white mt-2" id="nn">
                   Sultan Alneyadi
@@ -119,7 +119,10 @@ export default function Launches() {
         <div className="container-fluid" id="myName">
           <p className="text-center text-white-50">
             Cloned by{" "}
-            <a href="https://www.linkedin.com/in/wajahathussain17/">
+            <a
+              href="https://www.linkedin.com/in/wajahathussain17/"
+              target="blank"
+            >
               Qazi Wajahat Hussain
             </a>{" "}
             with ❤️.

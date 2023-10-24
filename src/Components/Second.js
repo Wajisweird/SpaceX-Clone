@@ -11,7 +11,10 @@ export default function Second() {
             LEARN MORE
           </a>
         </div>
-          <i class=" text-center fa-solid fa-chevron-down fa-fade fs-2xl" id="arrow2"></i>
+        <i
+          class=" text-center fa-solid fa-chevron-down fa-fade fs-2xl"
+          id="arrow2"
+        ></i>
       </div>
     </div>
   );

@@ -17,7 +17,10 @@ export default function Footer() {
       <div className="container-fluid" id="myName">
         <p className="text-center text-white-50">
           Cloned by{" "}
-          <a href="https://www.linkedin.com/in/wajahathussain17/">
+          <a
+            href="https://www.linkedin.com/in/wajahathussain17/"
+            target="blank"
+          >
             Qazi Wajahat Hussain
           </a>{" "}
           with ❤️.
